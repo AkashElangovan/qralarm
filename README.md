@@ -1,4 +1,4 @@
-
+# A fork of [QRAlarm](https://github.com/sweakpl/qralarm-android) but without the snooze button
 <p align="center">
    <img src="./fastlane/metadata/android/en-US/images/icon.png" width="192" height="192"/>
 </p>
